@@ -1,0 +1,12 @@
+#body {
+    background-color: #3ee863;
+}
+
+#carouselExampleFade img {
+    height: 500px; /* Adjust the height as needed */
+    object-fit: cover; /* Ensure images cover the entire container */
+}
+
+.card-body {
+    background-color: #eaed27;
+}

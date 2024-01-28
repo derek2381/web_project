@@ -1,0 +1,54 @@
+body {
+            margin: 0; /* Remove default body margin */
+            padding: 0; /* Remove default body padding */
+            text-align: center;
+            background-color: #3ee863;
+          }
+          
+          div {
+            margin-top: 20px; /* Adjust the top margin as needed */
+          }
+          
+          .container1, .container2 {
+            margin-top: 20px; /* Adjust the top margin as needed */
+          }
+          
+          
+          
+          
+          
+          .cc2{
+            height: 250px;
+            width: 250px;
+            background-color: #c7fc09;
+            margin-top: 5%;
+            margin-left: 35%;
+            border-radius: 10%;
+            padding: 5%;
+          }
+          
+          h1{
+            margin-top: 10px; /* Adjust the top margin as needed */
+          }
+          
+          select {
+            padding: 5px;
+            margin: 5px;
+            border-radius: 2%;
+          }
+          
+          button {
+            margin-top: 5%;
+            background-color: orange;
+            color: white;
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            cursor: pointer;
+            border-radius: 25px;
+          }
+          
+          hr {
+            border: 5px solid blue; /* Set the border style, color, and thickness */
+            margin: 20px 0; /* Add margin above and below the line for spacing */
+          }
